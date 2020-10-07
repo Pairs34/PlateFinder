@@ -1,0 +1,7 @@
+C:\Users\Pairs\RiderProjects\PlateFinder\PlateFinder\bin\x86\Debug\PlateFinder.exe
+C:\Users\Pairs\RiderProjects\PlateFinder\PlateFinder\bin\x86\Debug\PlateFinder.pdb
+C:\Users\Pairs\RiderProjects\PlateFinder\PlateFinder\bin\x86\Debug\openalpr-net.dll
+C:\Users\Pairs\RiderProjects\PlateFinder\PlateFinder\obj\x86\Debug\PlateFinder.csproj.CoreCompileInputs.cache
+C:\Users\Pairs\RiderProjects\PlateFinder\PlateFinder\obj\x86\Debug\PlateFinder.csproj.CopyComplete
+C:\Users\Pairs\RiderProjects\PlateFinder\PlateFinder\obj\x86\Debug\PlateFinder.exe
+C:\Users\Pairs\RiderProjects\PlateFinder\PlateFinder\obj\x86\Debug\PlateFinder.pdb
