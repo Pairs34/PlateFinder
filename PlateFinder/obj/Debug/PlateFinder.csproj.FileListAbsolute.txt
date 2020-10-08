@@ -5,3 +5,10 @@ C:\Users\Pairs\RiderProjects\PlateFinder\PlateFinder\obj\Debug\PlateFinder.cspro
 C:\Users\Pairs\RiderProjects\PlateFinder\PlateFinder\obj\Debug\PlateFinder.csproj.CopyComplete
 C:\Users\Pairs\RiderProjects\PlateFinder\PlateFinder\obj\Debug\PlateFinder.exe
 C:\Users\Pairs\RiderProjects\PlateFinder\PlateFinder\obj\Debug\PlateFinder.pdb
+C:\Users\aliyildirim\RiderProjects\PlateFinder\PlateFinder\bin\Debug\PlateFinder.exe
+C:\Users\aliyildirim\RiderProjects\PlateFinder\PlateFinder\bin\Debug\PlateFinder.pdb
+C:\Users\aliyildirim\RiderProjects\PlateFinder\PlateFinder\obj\Debug\PlateFinder.csprojAssemblyReference.cache
+C:\Users\aliyildirim\RiderProjects\PlateFinder\PlateFinder\obj\Debug\PlateFinder.csproj.CoreCompileInputs.cache
+C:\Users\aliyildirim\RiderProjects\PlateFinder\PlateFinder\obj\Debug\PlateFinder.csproj.CopyComplete
+C:\Users\aliyildirim\RiderProjects\PlateFinder\PlateFinder\obj\Debug\PlateFinder.exe
+C:\Users\aliyildirim\RiderProjects\PlateFinder\PlateFinder\obj\Debug\PlateFinder.pdb

@@ -6,3 +6,11 @@ C:\Users\Pairs\RiderProjects\PlateFinder\PlateFinder\obj\x64\Debug\PlateFinder.c
 C:\Users\Pairs\RiderProjects\PlateFinder\PlateFinder\obj\x64\Debug\PlateFinder.exe
 C:\Users\Pairs\RiderProjects\PlateFinder\PlateFinder\obj\x64\Debug\PlateFinder.pdb
 C:\Users\Pairs\RiderProjects\PlateFinder\PlateFinder\obj\x64\Debug\PlateFinder.csprojAssemblyReference.cache
+C:\Users\aliyildirim\RiderProjects\PlateFinder\PlateFinder\bin\x64\Debug\PlateFinder.exe
+C:\Users\aliyildirim\RiderProjects\PlateFinder\PlateFinder\bin\x64\Debug\PlateFinder.pdb
+C:\Users\aliyildirim\RiderProjects\PlateFinder\PlateFinder\bin\x64\Debug\openalpr-net.dll
+C:\Users\aliyildirim\RiderProjects\PlateFinder\PlateFinder\obj\x64\Debug\PlateFinder.csprojAssemblyReference.cache
+C:\Users\aliyildirim\RiderProjects\PlateFinder\PlateFinder\obj\x64\Debug\PlateFinder.csproj.CoreCompileInputs.cache
+C:\Users\aliyildirim\RiderProjects\PlateFinder\PlateFinder\obj\x64\Debug\PlateFinder.csproj.CopyComplete
+C:\Users\aliyildirim\RiderProjects\PlateFinder\PlateFinder\obj\x64\Debug\PlateFinder.exe
+C:\Users\aliyildirim\RiderProjects\PlateFinder\PlateFinder\obj\x64\Debug\PlateFinder.pdb

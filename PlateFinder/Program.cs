@@ -11,7 +11,7 @@ namespace PlateFinder
         {
             var openalprConf = Path.Combine(Directory.GetCurrentDirectory(), "openalpr.conf");
             var runtimeData = Path.Combine(Directory.GetCurrentDirectory(), "runtime_data");
-            var samplePath = Path.Combine(Directory.GetCurrentDirectory(),"samples\\2.jpg");
+            var samplePath = Path.Combine(Directory.GetCurrentDirectory(),"samples\\tk2.png");
             var alpr = new AlprNet("eu",
                 openalprConf,
                 runtimeData);
